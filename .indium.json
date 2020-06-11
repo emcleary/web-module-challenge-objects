@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "Index",
+      "type": "node",
+      "program": "node",
+      "args": "./index.js",
+      "inspect-brk": true
+    }
+  ]
+}
